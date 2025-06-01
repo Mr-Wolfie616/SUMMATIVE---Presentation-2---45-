@@ -21,6 +21,11 @@ To create Remuru I decided to start by removing the mask on his head allowing me
 
 As you can see in the image I created a black and white space within the 32x32 space to allow me to see the sizing and spacing of the sprite. This allowed me to make the slime even and not too close to the edges allowing me to make the sprite circular and easy for me to imagine the character better. I proceeded to make this sprite into a sprite sheet instead. To make the sprite sheet I thought about how the slime should move around if it was going to be in a game and from watching the show Remuru is in, I decided to make the slime jump to move around the scene. This was done using eight different frames creating stationary frames as well as the jump frames. Whilst the sprite jumps to make sure it had motion I would use the lighter blue as the frame to hold the slimes shape, following with the dark blue moving around inside the slime as well. This lead to the slime looking more fluid and moveable allowing for the slime to be moved in different shapes but also give the sprite a 3D feel of depth. To make the slime feel like it was alive more I also added reflection to the slime with to white spots to indicate a reflection on the slime. In most video games Slimes as a character are seen as a liquid meaning the would reflect light from the sun. This all lead to a sprite sheet like this:
 ![image](Media/Remuru_Spritesheet.png)
+
+Please see below for the Gif of the sprite.
+
+![New Piskel](https://github.com/user-attachments/assets/8772573b-51c4-4469-bfd4-6c9f1f0fe4fa)
+
 # Referenece
 - [That Time I Got Reincarnated As A Slime](https://tensura.fandom.com/wiki/)
 - [That Time I Got Reincarnated As A Slime - Remuru](https://tensura.fandom.com/wiki/Rimuru_Tempest/Gallery/Anime)
