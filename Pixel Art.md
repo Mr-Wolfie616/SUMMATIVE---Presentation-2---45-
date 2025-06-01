@@ -7,6 +7,12 @@ For my Characters I first decdided to work on fantasy charaters, which i could f
 - Grimgar of Fantasy and Ash
 - Arifureta: From Commonplace to World's Strongest
 
+These shows have some amazing characters to choose from however i have decided to stick with monsters I could create. Each monster is different with a ranged amount of complexity, allowing more to practice and see where my skill level lies 
 
-
-## 
+# Referenece
+- [That Time I Got Reincarnated As A Slime](https://tensura.fandom.com/wiki/)
+- [That Time I Got Reincarnated As A Slime - Remuru](https://tensura.fandom.com/wiki/Rimuru_Tempest/Gallery/Anime)
+- [Grimgar of Fantasy and Ash](https://en.namu.wiki/w/재와%20환상의%20그림갈/몬스터)
+- [Grimgar of Fantasy and Ash - Goblin](https://en.namu.wiki/w/재와%20환상의%20그림갈/몬스터)
+- [Arifureta: From Commonplace to World's Strongest](https://arifureta.fandom.com/wiki/Arifureta_Wiki)
+- [Arifureta: From Commonplace to World's Strongest - Twin-tailed Wolf](https://arifureta.fandom.com/wiki/Monster)
