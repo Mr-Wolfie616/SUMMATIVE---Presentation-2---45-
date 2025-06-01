@@ -1,13 +1,19 @@
 # Introduction
-As my course is Immersive Technology I have decdied to do as much design as I can whilst focusing on developing code as that is my preference so for my personal project I have decided to create Pixel Art, sticking to a 16x16 or 32x32 size for my work. The main objective of this project is to try and create or re-ccreate charcters which could be used in a 2D pixel game. To keep with themes I enjoy I have decided that my work will keep to a more fantasy genre allowing me to express charaters which don't have to keep to realism allowing proportians and design ideas to be more creative and not need to follow a specific direction. 
+As my course is Immersive Technology I have decided to do as much design as I can whilst focusing on developing code as that is my preference so for my personal project I have decided to create Pixel Art, sticking to a 16x16 or 32x32 size for my work. The main objective of this project is to try and create or re-create characters which could be used in a 2D pixel game. To keep with themes I enjoy I have decided that my work will keep to a more fantasy genre allowing me to express characters which don't have to keep to realism allowing proportions and design ideas to be more creative and not need to follow a specific direction.
 
 ## Inspiration
-For my Characters I first decdided to work on fantasy charaters, which i could find online. One of the main characters I decided to work on was a plague doctor with a nature twist to it allowing it to convey story in its design. I however then decided to change my idea, still keeping with the fantasy feel for my character however I wanted to try recreating characters from shows i enjoyed instead as this allowed me to work off of something that already existed as I do struggle to convey my creative Ideas into actual art. Due to this i Decided to use characters from fantasy Anime. The main ones I chose were:
-- That Time I Got Reincarnated As A Slime
-- Grimgar of Fantasy and Ash
-- Arifureta: From Commonplace to World's Strongest
+For my Characters I first decided to work on fantasy characters, which I could find online. One of the main characters I decided to work on was a plague doctor with a nature twist to it allowing it to convey story in its design. I however then decided to change my idea, still keeping with the fantasy feel for my character however I wanted to try recreating characters from shows I enjoyed instead as this allowed me to work off of something that already existed as I do struggle to convey my creative Ideas into actual art. Due to this I Decided to use characters from fantasy Anime. The main ones I chose were:
 
-These shows have some amazing characters to choose from however i have decided to stick with monsters I could create. Each monster is different with a ranged amount of complexity, allowing more to practice and see where my skill level lies 
+- Remuru Tempest from That Time I Got Reincarnated As A Slime
+  ![image](Media/Remuru_Slime.png)
+- Goblin from Grimgar of Fantasy and Ash
+
+  ![image](Media/Grimgar_Goblin.png)
+- Twin-tail Wolf from Arifureta: From Commonplace to World's Strongest
+  ![image](Media/Arifureta_Twin_Tail_Wolf.png)
+
+## Character Creation
+These shows have some amazing characters to choose from however I have decided to stick with the monsters from the shows instead. Each monster has a different ranged of complexity, allowing me to practice more and see where my skill level lies. The slime would be my starting point allowing me to see if I can create a simple shape whilst adding subtle details to the art allowing it to not just seem like a simple circle. I would then go onto create The Twin-tail Wolf which has a lot more detail than the slime. This would allow me to see what I can do with a four legged character and how I could animate the legs, head and tails, seeing how I could make a running animation and other animations. Fianlly I will try to create the Goblin as this in my opinion will be the heardest as it takes on a more humanoid appearance, luckily the Goblins from Grimgar have a simple design which allows me to work on proportions for characters better.  
 
 # Referenece
 - [That Time I Got Reincarnated As A Slime](https://tensura.fandom.com/wiki/)
@@ -16,3 +22,4 @@ These shows have some amazing characters to choose from however i have decided t
 - [Grimgar of Fantasy and Ash - Goblin](https://en.namu.wiki/w/재와%20환상의%20그림갈/몬스터)
 - [Arifureta: From Commonplace to World's Strongest](https://arifureta.fandom.com/wiki/Arifureta_Wiki)
 - [Arifureta: From Commonplace to World's Strongest - Twin-tailed Wolf](https://arifureta.fandom.com/wiki/Monster)
+- [Piskel](https://www.piskelapp.com/p/create/sprite/)
