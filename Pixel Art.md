@@ -28,6 +28,12 @@ To re-texture this Doctor I chose seven colours to create my version of the Doct
 
 ![image](Media/plague_doctor.png)
 
+Unfortunately, I was not able to animate or turn this character into a Gif due as I am not confident in the Design side of development. I couldn't break down how this character would move due to the small leges that it has, that I believe a walking animation would look unrealistic and the legs wouldn't have a bend animation and would move more like a stick figure than a person. I did however try making an Idle animation of the characters cloak blowing in the wind I could of also added a bobbing motion to the character to make the look like they have a slight sway to them allowing them to seem more alive. I did create a small bob animation to demonstrate what I mean.
+
+![Doctor_Idle](https://github.com/user-attachments/assets/6fb71a7b-6464-4eeb-afb5-55bbe9790a49)
+![Doctor_Idle_Bop](https://github.com/user-attachments/assets/db3c47e3-8cb7-41a6-ad50-a3021e8df5ef)
+
+
 ## Remuru Tempest Sprite
 To create Remuru I decided to start by removing the mask on his head allowing me to have a smoother character to start with, this allows me to try and make a more fluid character. I then decided to look at the colours for the character, as Remuru is a slime he isn't made up of many colour especially as he is an anime character and most characters are kept simple for the younger viewers. so I created my Remuru using four colours a light and dark blue, grey and a blueish white for the shine on his body. This lead to me creating this simple slime body.  
 ![image](Media/Remuru.png)
@@ -35,9 +41,12 @@ To create Remuru I decided to start by removing the mask on his head allowing me
 As you can see in the image I created a black and white space within the 32x32 space to allow me to see the sizing and spacing of the sprite. This allowed me to make the slime even and not too close to the edges allowing me to make the sprite circular and easy for me to imagine the character better. I proceeded to make this sprite into a sprite sheet instead. To make the sprite sheet I thought about how the slime should move around if it was going to be in a game and from watching the show Remuru is in, I decided to make the slime jump to move around the scene. This was done using eight different frames creating stationary frames as well as the jump frames. Whilst the sprite jumps to make sure it had motion I would use the lighter blue as the frame to hold the slimes shape, following with the dark blue moving around inside the slime as well. This lead to the slime looking more fluid and moveable allowing for the slime to be moved in different shapes but also give the sprite a 3D feel of depth. To make the slime feel like it was alive more I also added reflection to the slime with to white spots to indicate a reflection on the slime. In most video games Slimes as a character are seen as a liquid meaning the would reflect light from the sun. This all lead to a sprite sheet like this:
 ![image](Media/Remuru_Spritesheet.png)
 
-Please see below for the Gif of the sprite.
+Please see below for the Gif of the sprite. This was my final of the slime in a 32x32 frame at 2fps to show the animation slowly working out. 
 
 ![New Piskel](https://github.com/user-attachments/assets/8772573b-51c4-4469-bfd4-6c9f1f0fe4fa)
+
+## Conclusion
+To conclude This project I unfortunately set my scope too large for my project without thinking about the scope of my other projects going on at the same time. This project was fun to try and create and helped me to understand pixel art better with many areas to improve on. One of the main areas would be creating humanoid characters and understanding how a 2D character would move and interact with the world. Fortunately, The slime was easier to create as it interacts with the world. I would like to develop the slime more and see what other sprite sheets I could create with the slime for example attack animations and damage animations. Another concept I would like to look into would be from the fantasy genre, magic sigils which would allow me to go into symmetry and animating magic spells. This would however be a bit larger for example 64x64 to allow me to create more detailed spells and imagery. 
 
 # Referenece
 - [That Time I Got Reincarnated As A Slime](https://tensura.fandom.com/wiki/)
