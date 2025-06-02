@@ -15,6 +15,9 @@ For my Characters I first decided to work on fantasy characters, which I could f
 ## Character Creation
 These shows have some amazing characters to choose from however I have decided to stick with the monsters from the shows instead. Each monster has a different ranged of complexity, allowing me to practice more and see where my skill level lies. The slime would be my starting point allowing me to see if I can create a simple shape whilst adding subtle details to the art allowing it to not just seem like a simple circle. I would then go onto create The Twin-tail Wolf which has a lot more detail than the slime. This would allow me to see what I can do with a four legged character and how I could animate the legs, head and tails, seeing how I could make a running animation and other animations. Finally I will try to create the Goblin as this in my opinion will be the hardest as it takes on a more humanoid appearance, luckily the Goblins from Grimgar have a simple design which allows me to work on proportions for characters better.
 
+## Plague doctor 
+
+
 ## Remuru Tempest Sprite
 To create Remuru I decided to start by removing the mask on his head allowing me to have a smoother character to start with, this allows me to try and make a more fluid character. I then decided to look at the colours for the character, as Remuru is a slime he isn't made up of many colour especially as he is an anime character and most characters are kept simple for the younger viewers. so I created my Remuru using four colours a light and dark blue, grey and a blueish white for the shine on his body. This lead to me creating this simple slime body.  
 ![image](Media/Remuru.png)
