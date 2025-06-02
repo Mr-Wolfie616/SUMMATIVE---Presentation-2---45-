@@ -24,7 +24,7 @@ I wanted my version of the Plague Doctor to be more based in nature instead of w
 ![image](Media/Glow_Lichen.png)
 ![image](Media/Moss.png)
 
-To re-texture this Doctor I chose seven colours to create my version of the Doctor I decided on a light and darker cream colour, Blue, Green, a blueish Grey and a blueish green. These colours covered the cloak, mask, moss, lichen and legs. I used most of the black as an outline for the character and legs. As you can see from the image below the character 
+To re-texture this Doctor I chose seven colours to create my version of the Doctor I decided on a light and darker cream colour, Blue, Green, a blueish Grey and a blueish green. These colours covered the cloak, mask, moss, lichen and legs. I used most of the black as an outline for the character and legs. As you can see from the image below the character First changed the colour of the cloak to make it seem older and not as new. I then changed the mask to be more cream as if it was bleached in the sun and nature and change the eye to blue as the concept for my Doctor was that the plague doctor is a wandering spirit who had risen from within the forest and would be a kind undead spirit who would help people. So I decided to make the eyes blue like the undead in Game of Thrones. 
 
 ![image](Media/plague_doctor.png)
 
